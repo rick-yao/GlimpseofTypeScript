@@ -1,0 +1,14 @@
+{
+  "name": "GlimpseofTypeScript",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:rick-yao/GlimpseofTypeScript.git",
+  "author": "rick <abneryaoo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.29.0",
+    "typescript": "^4.9.4"
+  }
+}
